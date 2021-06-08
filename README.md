@@ -1,6 +1,7 @@
 # Player Archive
 
-Coding Challenge for OneFootball
+Coding Challenge for OneFootball.\
+The project is built using React along with Axios, Jest and Tailwind as CSS framework.
 
 Demo: https://onefootball-challenge.netlify.app
 
