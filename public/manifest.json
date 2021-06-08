@@ -1,0 +1,27 @@
+{
+  "name": "OneFootball // Coding Challenge",
+  "short_name": "Player Archive",
+  "description": "OneFootball // Coding Challenge - Player Archive",
+  "icons": [
+    {
+      "src": "images/favicons/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "images/favicons/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/favicons/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "lang": "en",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1A1A24",
+  "theme_color": "#1A1A24"
+}
